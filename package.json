@@ -1,0 +1,25 @@
+{
+  "name": "erc20-token-swap-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockadeLabs/erc20-token-swap-contract.git"
+  },
+  "author": "Blockade Games, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlockadeLabs/erc20-token-swap-contract/issues"
+  },
+  "homepage": "https://github.com/BlockadeLabs/erc20-token-swap-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0"
+  }
+}
