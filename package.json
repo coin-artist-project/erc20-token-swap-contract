@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/BlockadeLabs/erc20-token-swap-contract#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.1.0"
+    "@openzeppelin/contracts": "^3.1.0",
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
